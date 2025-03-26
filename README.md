@@ -6,7 +6,7 @@
 **Team Members:**
 - Member 1 Name
 - [Member 1's Github ](https://github.com/username) - Role/Contribution
-- Member 2 Name
+- Anand Krishna N
 - [Member 2's Github](https://github.com/username) - Role/Contribution
 
 ## 💡 Project Idea

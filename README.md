@@ -4,7 +4,7 @@
 **Team Name:** [Your Creative Team Name]  
 
 **Team Members:**
-- Member 1 Name
+- A S Netheesh Kumar
 - [Member 1's Github ](https://github.com/username) - Role/Contribution
 - Member 2 Name
 - [Member 2's Github](https://github.com/username) - Role/Contribution

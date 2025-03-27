@@ -1,21 +1,21 @@
+# Epilepsy_Safe_Screen
 # 🚀 DSolve-2025 Hackathon
 
 ## 👥 Team Information
-**Team Name:** [Your Creative Team Name]  
+**Team Name:** Bytes
 
 **Team Members:**
 - A S Netheesh Kumar
-- [Member 1's Github ](https://github.com/username) - Role/Contribution
-- Member 2 Name
-- [Member 2's Github](https://github.com/username) - Role/Contribution
+- NetheeshAS - Role/Contribution
+- Anand Krishna N
+- AnandKrishna2006 - Role/Contribution
 
 ## 💡 Project Idea
-[A clear, concise 2-3 sentence description of your project's purpose and value proposition]
-
+The Epilepsy-Safe Screen Analyzer is a real-time software solution that detects and mitigates visual triggers in video games to protect players with photosensitive epilepsy. By analyzing flicker frequencies (3–60Hz), high-contrast flashes, and color oscillations, it applies GPU-accelerated adjustments (dimming, blurring, desaturation) to reduce seizure risks—without requiring modifications to the game itself.
 ## ✨ Key Features
-- 🔍 Feature 1: [Brief description]
-- ⚡ Feature 2: [Brief description] 
-- 🛡️ Feature 3: [Brief description]
+- 🔍 Feature 1:  Real-Time Flicker Detection
+- ⚡ Feature 2: Dynamic Brightness Control 
+- 🛡️ Feature 3: DirectX Overlay with Gaussian Blur
 
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
@@ -24,25 +24,29 @@
 ## 🛠️ Tech Stack
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
-| Tech 1     | vX.X.X  |         |
+| DirectX +  |         |         |
+| Win32 API  | vX.X.X  |         |
+| NumPy +    |         |         |
+|scikit-image| vX.X.X  |         |
+|  MSS       | vX.X.X  |         |
 
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
-- Node.js v16+ / Python 3.8+
-- npm/yarn/pip
-- [Any other requirements]
+- Python 3.7 or higher
+- Windows OS (required for screen brightness control and DirectX overlay)
+- numpy
+- scikit-image
+- mss
 
 ### Installation
 ```bash
-// {Enter the commands for installation here}
+pip install numpy mss scikit-image screen-brightness-control pywin32
 ```
 
 ### Running the Project
 ```bash
-// {Enter the commands for running here}
+python epilepsy_protection.py
 ```
 
 ## 🤝 How to Contribute
